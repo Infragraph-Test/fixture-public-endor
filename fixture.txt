@@ -1,3 +1,3 @@
 Repository: fixture-public-endor
 Branch: develop
-Revision: 1
+Revision: 2
