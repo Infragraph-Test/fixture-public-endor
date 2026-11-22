@@ -1,0 +1,3 @@
+Repository: fixture-public-endor
+Branch: release
+Revision: 1
